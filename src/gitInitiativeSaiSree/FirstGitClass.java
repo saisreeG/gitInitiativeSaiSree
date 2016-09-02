@@ -21,7 +21,7 @@ public class FirstGitClass {
 		System.out.println("Addition of a and bUUUU is:: " + c);
 		System.out.println("Addition of a and biiiiiiiUyyyyyyy is:: " + c);
 		System.out.println("Yessssssssssssssss");
-		System.out.println("Successsssssssss");
+		System.out.println("Successsssssssssssss");
 		System.out.println("Sreenesh");
 		System.out.println("Git is awesome");
 	}
