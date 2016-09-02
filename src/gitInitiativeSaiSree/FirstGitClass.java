@@ -23,6 +23,7 @@ public class FirstGitClass {
 		System.out.println("Yessssssssssssssss");
 		System.out.println("Successsssssssss");
 		System.out.println("Sreenesh");
+		System.out.println("Git is awesome");
 	}
 
 }
