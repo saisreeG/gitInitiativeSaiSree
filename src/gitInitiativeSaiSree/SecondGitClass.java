@@ -18,5 +18,6 @@ public class SecondGitClass {
 		int b=4;
 		int c= a-b;
 		System.out.println("Difference of a and b is:: " + c);
+		System.out.println("test");
 	}
 }
