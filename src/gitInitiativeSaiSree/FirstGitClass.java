@@ -18,6 +18,7 @@ public class FirstGitClass {
 		int b=4;
 		int c= a+b;
 		System.out.println("Addition of a and b is:: " + c);
+		System.out.println("Addition of a and bUUUU is:: " + c);
 	}
 
 }
